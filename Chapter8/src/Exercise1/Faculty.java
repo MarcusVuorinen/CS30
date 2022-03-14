@@ -1,5 +1,7 @@
 package Exercise1;
 
-public class Faculty {
+public class Faculty 
+{
+	
 
 }
